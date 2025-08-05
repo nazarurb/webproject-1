@@ -1,0 +1,18 @@
+{
+    "name": "Charlie Lee",
+    "role": "Data Scientist",
+    "questions": [
+        {
+            "id": 13,
+            "text": "1. Can you explain the difference between supervised and unsupervised learning in machine learning, and provide examples of when each would be used in a data science project?"
+        },
+        {
+            "id": 14,
+            "text": "2. How do you approach feature selection and dimensionality reduction in a dataset to improve model performance and reduce overfitting?"
+        },
+        {
+            "id": 15,
+            "text": "3. Can you discuss the importance of model evaluation metrics in the context of a data science project, and how you would choose the most appropriate metric for a given problem?"
+        }
+    ]
+}

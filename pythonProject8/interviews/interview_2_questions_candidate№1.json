@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "id": 4,
+            "text": "1. Can you explain the concept of Object Relational Mapping (ORM) and how it is used in Python web development?"
+        },
+        {
+            "id": 5,
+            "text": "2. How would you design a RESTful API using Python and Flask/Django? Can you discuss the key components and best practices involved?"
+        },
+        {
+            "id": 6,
+            "text": "3. What is the significance of asynchronous programming in Python back-end development? Can you provide examples of when and how asynchronous programming can be beneficial in improving performance and scalability of web applications?"
+        }
+    ]
+}

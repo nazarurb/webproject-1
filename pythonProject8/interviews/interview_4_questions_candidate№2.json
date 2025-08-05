@@ -1,0 +1,16 @@
+{
+    "questions": [
+        {
+            "id": 10,
+            "text": "1. Can you explain the difference between state and props in React, and provide an example of when you would use each one in a component?"
+        },
+        {
+            "id": 11,
+            "text": "2. How would you optimize the performance of a React application, especially when dealing with large amounts of data or complex components?"
+        },
+        {
+            "id": 12,
+            "text": "3. Can you discuss the concept of React hooks and how they have changed the way developers write functional components in React?"
+        }
+    ]
+}
